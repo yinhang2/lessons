@@ -1,5 +1,5 @@
 #<center>第三届大中华区MOOC研讨会资料#
-####施国琛（中央大学）　　　　　　　　　　　[Building Social Community for MOOCs Content Users](./Building Social Community for MOOCs Content Users)
+####施国琛（中央大学）　　　　　　　　　　　[Building Social Community for MOOCs Content Users](./blob/master/Building%20Social%20Community%20for%20MOOCs%20Content%20Users.pptx)
 ####Eric Tsui（香港理工大学）　　　　　　　　[Leveraging MOOCs to enhance Teaching & Learning](Leveraging MOOCs to enhance Teaching & Learning)
 ####马殿富（北京航空航天大学） 　　　　　　　[MOOC与在线硬件实验环境思考](MOOC与在线硬件实验环境思考)
 ####屈华民（香港科技大学）　　　　　　　　　[MOOC数据的可视分析](MOOC数据的可视分析)
